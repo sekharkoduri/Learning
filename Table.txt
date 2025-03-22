@@ -8,3 +8,5 @@ SalesQuotationTable
 SalesQuotationLine
 SpecificationsTable
 SpecificationsLine
+VendPackingSlipJour
+VendPackingSlipTrans
