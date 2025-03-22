@@ -4,3 +4,5 @@ SalesTable
 SalesLine
 PurchTable
 PurchLine
+SalesQuotationTable
+SalesQuotationLine
