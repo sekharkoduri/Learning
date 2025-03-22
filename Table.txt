@@ -6,3 +6,7 @@ PurchTable
 PurchLine
 SalesQuotationTable
 SalesQuotationLine
+SpecificationsTable
+SpecificationsLine
+SalesPortalOrderTable
+SalesPortalOrderLine
