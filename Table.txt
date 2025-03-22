@@ -6,3 +6,5 @@ PurchTable
 PurchLine
 SalesQuotationTable
 SalesQuotationLine
+SpecificationsTable
+SpecificationsLine
